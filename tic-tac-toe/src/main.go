@@ -1,5 +1,7 @@
+
 package main
 
+/*
 import (
 	"fmt"
 )
@@ -63,7 +65,7 @@ func displayBoard(board [][]string) {
     }
 }
 
-func main() {
+func main1() {
     moves := make(map[Vertex]string)
     allmoves := make(map[string][]Vertex)
     var x, y int
@@ -109,4 +111,4 @@ func main() {
         i++
     }
 }
-
+*/
